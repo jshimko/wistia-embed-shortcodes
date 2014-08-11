@@ -1,4 +1,4 @@
-# Wistia Embed Shortcode Plugin for Wordpress
+## Wistia Embed Shortcode Plugin for Wordpress
 
 This plugin makes use of Wistia's [javascript player API](http://wistia.com/doc/player-api) to allow you to use a simple shortcode to embed your videos and customize settings (currently supports color, width/height, and autoplay). It only gives you a few of the available embed options at this point (because that was all I needed), but send me a message if you are looking for other customizations.  It would not be difficult to implement any of the other [available embed options](http://wistia.com/doc/embed-options) or [embed plugins](http://wistia.com/doc/embed-options#embed_plugins) that Wistia provides.
 

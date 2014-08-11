@@ -2,7 +2,7 @@
 /*
 Plugin Name: Wistia Embed Shortcodes
 Plugin URI: https://github.com/jshimko/wistia-embed-shortcodes
-Description: Use a simple shortcode to embed your Wistia videos and track emails of registered users that watch them.
+Description: Use a simple shortcode to embed your Wistia videos and track emails of logged in users that watch them.
 Version: 0.1.0
 Author: Jeremy Shimko
 Author URI: https://github.com/jshimko

@@ -13,7 +13,7 @@ You can then use a simple shortcode to embed your Wistia videos and track logged
 
 First, find the ID of the video you's like to embed. Go to your Wistia dashboard and select a video.  The id will be at the end of the URL of that page.
 
-For example: https://YOUR-ACCOUNT.wistia.com/medias/**g5pnf59ala**
+For example: `https://YOUR-ACCOUNT.wistia.com/medias/g5pnf59ala`
 
 Just grab the "**g5pnf59ala**" and use that as the "id" in the shortcode like this:
 
